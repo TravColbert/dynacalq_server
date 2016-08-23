@@ -1,0 +1,26 @@
+{
+  "title":"Calculate Simple Interest",
+  "author":"The DynaCalq Team",
+  "date":"Jul 23, 2016",
+  "article_version":3,
+  "abstract":"Calculating simple interest with DynaCalq",
+  "categories":["money"],
+  "content":[
+    "Modern personal money-management skills require at least a surface understanding of <em>interest</em>. This article will help you understand a little about interest and help you calculate basic interest.",
+    "Let's establish a foundation:",
+    "<b>What is <em>Interest</em>?</b>",
+    "Interest is the <em>extra</em> that a borrower pays for having borrowed.",
+    "It is the cost of having borrowed an amount of money. In the case of a consumer buying something on credit: the consumer <i>borrows</i> money from a creditor. In the case of a bank customer who deposits his money in the bank, the bank agrees to give a small amount 'extra' to you in the form of interest for having borrowed your money. Banks <i>use</i> the money that its customers deposit, therefore, they are acting as the borrower.",
+    "In both cases, the borrower is expected to pay a little something extra for having borrowed money.",
+    "<b>The Principal</b>",
+    "The money borrowed is called the <i>principal</i>. When you buy an item on credit the total cost of that item might be considered the principal. When you deposit money into the bank, the original sum that was deposited is called the principal.",
+    "<b>The Interest Rate</b>",
+    "Interest is calculated by charging a certain <i>percentage</i>, or proportion of the money borrowed (the principal). This percentage is called the <i>interest rate</i>",
+    "The thing about interest rates is that it is most often affected by the risk involved in loaning the money. If the lender judges that the borrower is high-risk, then the interest rate will be higher. Likewise, if the borrower is considered low-risk, the interest rate will usually be lower.",
+    "<b>What is <i>APR</i> or <i>Annual Percentage Rate</i>?</b>",
+    "Usually, interest rates are <i>annualized</i>, that is to say, they are expressed as an annual percentage in the form of the <i>Annual Percentage Rate</i> (APR).",
+    "APR is a way that customers can compare different lending products even if the lending products have different loan structures. One creditor might offer 15% interest calculated every month, while another creditor might offer 27% interest calculated ever 2 months. To make it a little easier, creditors and banks advertise their instruments in <i>annual terms</i>.",
+    "<b>Periods</b>",
+    "Simmple interest can be calculated against the principal on regular intervals - often monthly or yearly. This is called a period in DynaCalq. You can calculate the total amount of interest over a given amount of <i>periods</i>."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title":"Using the Universal Converter",
+  "author":"The DynaCalq Team",
+  "date":"Jul 22, 2016",
+  "article_version":5,
+  "for_formula":"universal_converter",
+  "categories":["conversion","general"],
+  "abstract":"DynaCalq's universal converter is powerful yet easy enough for anyone to use.",
+  "content":[
+    "First, select the type of conversion you wish to perform.",
+    "Once, you've selected the type of unit, you should select the unit that you will be converting from. To do this, tap the downward-pointing green arrow to the left of the Unit 1 field. Pick the unit you wish to convert from.",
+    "Next, select the unit that you would like to convert to.",
+    "Once all of your units have been selected, you may enter the figure in the Unit 1 field. DynaCalq will print the result of the conversion in the Unit 2 field."
+  ]
+}

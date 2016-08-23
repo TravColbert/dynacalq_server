@@ -1,0 +1,26 @@
+{
+  "title":"Amortization Schedule",
+  "author":"The DynaCalq Team",
+  "date":"Jun 18, 2016",
+  "article_version":4,
+  "abstract":"How much money would it take to 'kill' a loan?",
+  "categories":["money"],
+  "content":[
+    "Loans, especially large ones, are like some kind of horrible, self-feeding monster. Because of the power of <i>compounding interest</i> a loan actually feeds on itself and grows ever larger if not properly controlled.",
+    "Unfortunately, for large loans like mortgages and car loans, it may simply be impossible to slay the evil loan monster in one strike. More realistically we have to slowly pay off the loan - hacking at it regularly - until the wily beast has finally been slayed. In the personal finance world, we call this slow, controlled killing of a loan an <b><i>amortization</i></b>. In fact, the word <i>amortization</i> has Latin roots, meaning: <i>to kill</i> (fr. <i>a mort</a>: to death, to kill)",
+    "Amortization is the process by which the principal of a loan is progressively paid off through a regular, fixed schedule.",
+    "DynaCalq is packaged with several formulas that help you manage debt. One of these formulas is an amortization schedule calculator. This formula accepts the following inputs:",
+    "<ul><li>The total loan amount or <i>principal</i></li><li>The interest rate applied to the loan</li><li>The target number of months to pay off the loan</li></ul>",
+    "DynaCalq will produce <b>a monthly payment</b> that, if followed, will allow you to completely pay off the principal and the accumulating interest by the specified target date.",
+    "<b>An Example</b>",
+    "Suppose you wanted an accurate calculation of how big your monthly payment would be if you got a &pound;300,000 loan at 5.25% interest for 30 years.",
+    "Tap DynaCalq's <b>Amortization Schedule for a Loan</b> formula.",
+    "Next, enter 300000 into the <b>Loan Amount</b> field.",
+    "<span class='note'><b>Note:</b> You could select the currency unit of <i>British Pounds</i> from the green unit selector button to the left of the field if you wanted to but you don't have to. You might wish to select the currency unit if you wanted DynaCalq to calculate the loan from British Pounds into another currency for your final monthly payment result.</span>",
+    "Next, enter 5.25 into the <b>Interest rate</b> field.",
+    "Next, enter the number of months that you wish to pay off the loan. A home mortgage might last 30 years so that's 360 (30 years x 12 months).",
+    "DynaCalq will produce: <b>1656.61...</b>. This is what your monthly payment would be if you accepted the above terms of the loan.",
+    "<b>Other Uses</b>",
+    "Of course, you could use this formula to calculate <i>any</i> loan that you wish to pay off by a <i>schedule</i>. A large credit card balance might be a good example of how you could use DynaCalq's Amortization Schedule for a Loan formula."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title":"DynaCalq - The Basics",
+  "author":"The DynaCalq Team",
+  "date":"Jul 22, 2016",
+  "article_version":8,
+  "abstract":"Let's start with the basics",
+  "content":[
+    "Welcome to DynaCalq! The worlds most useful personal calculation assistant.",
+    "DynaCalq is a collection of useful tools for making calculations. DynaCalq makes performing complicated mathematical calculations very easy. You don't have to memorize difficult formulas - just punch in the numbers into the provided fields. Once all of the fields have been filled DynaCalq will perform the calculations for you.",
+    "Tap a formula from the main list to begin your calculation. For starters let's tap the <em>Universal Converter</em> formula.",
+    "<span class='note'><b>Note:</b> The Universal Converter, like many other formulas packaged in DynaCalq, has its own, more detailed documentation. Tap the '<em>Read the article</em>' button for a more detailed article.</span>",
+    "The Universal Converter can be used to convert monetary units, temperature, weight, whatever. So, first, let's pick the type of unit you want to convert. Suppose we want to find out how what <em><b>7</b> pounds</em> are in <em>kilograms</em>. Kilograms and pounds are WEIGHT measurement so select WEIGHT in the unit-type selector.",
+    "<span class='note'><b>Note:</b> Most formulas do not have this unit-type selector field. This is because most formulas are designed to work with a specific unit-type already. For example, the <em>Gratuity</em> formula is a monetary calculation so there is no need to select <em>Currency</em> for this formula.</span>",
+    "<b>The Unit Selector</b>",
+    "The unit selector looks like this: <i class='fa fa-chevron-circle-down' style='font-size:1.4em;font-weight:normal;color:#AFB42B;text-shadow: 0px 2px 7px rgba(0,0,0,0.3);'></i>",
+    "The unit selector lets you pick what specific unit you wish to perform your calculation with.",
+    "So go ahead and select the unit that you want to convert <em>from</em>. In this case, we select <i>Pounds</i>. Most formulas have a unit selector button to the left of certain units fields. This allows you to pick the exact unit on which you wish to perform your calculations.",
+    "Next, select the unit that you want to convert <em>to</em>. So, let us select Kilograms.",
+    "Once we've selected our units, we enter the <em>7</em> in the Unit 1 field. DynaCalq converts <b>7 pounds</b> to <b>3.175144 kilograms</b>.",
+    "<b>Rounding</b>",
+    "DynaCalq calculates some formulas with the highest <b>precision</b> it can. <b>Precision</b> describes how <i>detailed</i> or <i>fine</i> the result is. The higher the precision, the more detailed the calculation is. In practical terms, a higher precision means you stand a chance of seeing more numbers to the <i>right</i> of a decimal-point.",
+    "Sometimes, ultra-high precision is not desired. For <b>currency</b> the most practical precision is usually a 1/100<sup>th</sup> of a unit. In the case of the U.S. dollar, a 1/100<sup>th</sup> of a dollar is a cent. In day-to-day use there's little practical benefit in calculating in fractions of a cent.",
+    "For many formulas, if you want to make DynaCalq reduce precision to what is reasonable and practical, you should select a unit. This applies especially to currency calculations. If you want high-precision calculations, leave the unit unselected.",
+    "That's it! You use the same technique when you're converting money, linear measures, and temperatures.",
+    "<b><i>Hearting</i> a Formula</b>",
+    "If you want to <i>heart</i> or <i>favorite</i> a particular formula, simply tap the small heart in the formula's title area: <i class='fa fa-heart-o subdue'></i>",
+    "Hearting a formula will make it appear in the formula category called <b>'Favorites'</b>",
+    "<b>The DynaCalq Dot</b>",
+    "The DynaCalq dot:",
+    "<div style='background:red;border-radius:50%;padding: 0.25em 0.6em;height:1.5em;width:2em;display:inline;text-shadow: 0px 2px 7px rgba(0,0,0,0.3);'>&Sigma;</div>",
+    "is near the bottom-right corner of your screen. Use the dot to quickly filter your formulas by category. You can also see general articles (like this one) by tapping it."
+  ]
+}

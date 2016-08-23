@@ -1,0 +1,29 @@
+{
+  "title":"Find the Better Deal using DynaCalq",
+  "author":"The DynaCalq Team",
+  "date":"Jul 31, 2016",
+  "article_version":5,
+  "abstract":"Getting the most from your money using DynaCalq",
+  "categories":["money"],
+  "content":[
+    "'<i>Bang for the buck</i>.' DynaCalq provides a few useful formulas to make it a little easier to stretch our buck, loonie, pound, baht or ruble as far as possible.",
+    "Open the '<b>Which is a Better Deal?</b>' formula in DynaCalq. This formula will help you easy determine the unit price for two items - allowing you to see clearly which item is the better deal. This formula, like all monetary formulas in DynaCalq, has a special trick: the ability to easily compare products that are expressed in different currencies. If you happen to be traveling, you can easily determine what product costs less per unit.",
+    "Suppose you wanted to buy some coffee beans online. (It's true - we here at the Moonshot Group have a special place in our hearts for coffee). One Australian distributor offers a 500g bag of Rwandan coffee beans for $30.00 (AUS). Another online distributor offers 250g of 'Monsoon Malabar' whole beans at &pound;5.95. Which is the better deal?",
+    "So, let's pick our currency for the first unit. Simply tap the green, downward-pointing unit-selector arrow beside the <b><i>ITEM 1: Price</i></b> field. In this case, we're going to select the Australian Dollar ($).",
+    "Enter the price of the 500g bag of coffee in the <b><i>ITEM 1: Price</i></b> field: <b>30</b>",
+    "Now, let's enter the <i>quantity</i> of ITEM 1. The quantity is the number of individual units that the product comes in. The website says you get a <b>500g</b> bag of coffee. So, simply enter <b>500</b> in the <b><i>ITEM 1: Quantity</i></b> field.",
+    "<span class='note'><b>Note</b>: The key with the quantity field is to pick a lowest-common denominator unit of quantity for both items. In this example both bags of coffee are expressed in quantities of <i>grams (g)</i>, so it is easy to simply enter the number of grams per product. As long as the base unit is the same then your calculation will be accurate.</span>",
+    "<b>DynaCalq's Magical Behind-the-Scenes Currency Conversion</b>",
+    "Now, here's where things get very interesting. You may chose to pick the currency in which you wish to make the comparison in the next field. If I were from the U.S., perhaps I'd appreciate making the comparison in U.S. dollars - since that's what I'm most familiar with. In that case, select the green, downward-pointing unit-selector arrow beside the <b><i>Cost per unit of item: 1</i></b> field.",
+    "DynaCalq will instantly and transparently adjust the formula so that you see the cost for the 500g bag of Rwandan coffee expressed in <b>dollars per gram</b>. It turns out to be <b>$0.05</b>",
+    "Now, let's see how that compares to the Malabar coffee:",
+    "Repeat the same process for ITEM 2. The fields for ITEM 2 should look something like this:",
+    "&pound; : 5.95",
+    " : 250",
+    "<b>And which is the winner!?</b>",
+    "Since DynaCalq converts the costs of both products into your target currency (even taking into account the current currency exchanges for all the currencies involved in the formula), it can give you a very accurate result. It turns out that the Malabar coffee from the British online coffee supplier is cheaper, per gram, than the Rwandan coffee from Australia. The Malabar coffee comes out at 0.03 U.S. dollars per gram. The formula even tells you at the bottom:",
+    "The better deal is: <b>ITEM 2</b>",
+    "DynaCalq has saved the day (and saved a buck) again!",
+    "p.s. If you really like this and the other articles in DynaCalq you could buy us a coffee. We're not partial: Malibar or Rwandan is fine! See the link below. :-)"
+  ]
+}

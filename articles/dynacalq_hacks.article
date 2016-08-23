@@ -1,0 +1,26 @@
+{
+  "title":"DynaCalq Hacks - Crazy Stuff You Didn't Know You Could Do In DynaCalq",
+  "author":"The DynaCalq Team",
+  "date":"Jul 31, 2016",
+  "article_version":2,
+  "abstract":"Mind-blowing super-powers are within reach! Master these helpful tricks",
+  "content":[
+    "DynaCalq hides vast power behind such an easy-to-use interface. Now, as all superheros know: <i>with great power comes great responsability</i>.",
+    "The DynaCalq Team thinks you're responsible enough to handle these incredibly-powerful DynaCalq hacks. So, we're willing to let these hacks out into the wild for your benefit!",
+    "<b>Field-Level Calculations</b>",
+    "Our first incredible trick is actually a whole bunch of tricks all bundled into one. We call them <i>Field-Level Calculations</i>. Here's how they work:",
+    "There are some formulas where it is helpful to <i>pre-calculate</i> a number before entering it into the formula's field. A good example is our <b>Interest</b> formula. We concede that it can be little unnerving trying to remember how many months compose a 30-year loan (it's <i>360</i>).",
+    "So, wouldn't it be nice if, instead of entering this into the <b>Periods</b> field:",
+    "<pre>360</pre>",
+    "... you could enter this:",
+    "<pre>30 * 12</pre>",
+    "<span class='note'>We've added a little space between the numbers and the operators to make them a little easier to see. But you normally don't need (and shouldn't) use spaces in these tricks.</span>",
+    "That is to say: <b><i>30 years times 12 months for each year</i> equals 360</b>.",
+    "So try it! Go ahead... we'll wait. Nice trick isn't it?",
+    "So, this trick can be used <i>anywhere</i> where you need to pre-calculate a value that should go into field. For example, instead of entering the <i>Total</i> on your restaraunt check, maybe, as further validation of the bill, you enter the cost of each individual item on your bill?",
+    "Speaking of restaraunt bills, if you're feeling unusually sinister and you just wanted to calculate <i>your part of the gratuity</i> from a single, shared restaraunt bill, it's super-easy. Just pick all of the food and drinks <i>you ordered</i> and enter them into the <i>Meal Cost</i> field individually, like this:",
+    "<pre>30 + 12 + 8</pre>",
+    "DynaCalq will add up your meal, drink, and desert first, then perform the gratuity calculation.",
+    "Try putting this, and other tricks into practice for even greater super-powers! And check back later for more incredible DynaCalq hacks."
+  ]
+}

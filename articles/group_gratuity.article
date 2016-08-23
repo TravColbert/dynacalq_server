@@ -1,0 +1,16 @@
+{
+  "title":"Group Gratuity",
+  "author":"The DynaCalq Team",
+  "date":"Jul 23, 2016",
+  "article_version":5,
+  "abstract":"Calculating gratuity when there are multiple payers",
+  "categories":["entertainment","money"],
+  "content":[
+    "Here's a situation that arises sometimes: you're out on the town with several of your friends. Now its time to pay the gratuity. Each of you wants to contribute to the final bill. But, when there are several of you paying, it gets a little more complicated. How do you divide the gratuity among all of you?",
+    "You can use DynaCalq's <em>Group Gratuity</em> formula to calculate a fair way to divide the gratuity among all of your friends.",
+    "Of course, you are always free to calculate the meal and gratuity price for each of your friends for the most accurate gratuity payment",
+    "The Group Gratuity formula simply expects 3 inputs:",
+    "<ul><li>The cost of the meal (<em>before gratuity</em>)</li><li>The desired gratuity percentage you wish to pay</li><li>The number of individual payers</li></ul>",
+    "<span class='note'><b>Note:</b> If you are traveling to another country be advised that not all cultures and countries accept or even <em>appreciate</em> tips. Many oriental cultures, for example, consider tipping to be insulting. Before you travel, and before you offer a tip, be sure to research what is culturally acceptable where you plan to visit.</span>"
+  ]
+}

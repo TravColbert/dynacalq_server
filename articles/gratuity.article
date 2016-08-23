@@ -1,0 +1,20 @@
+{
+  "title":"Gratuity",
+  "author":"The DynaCalq Team",
+  "date":"Jul 23, 2016",
+  "article_version":5,
+  "abstract":"Using DynaCalq to calculate gratuity",
+  "categories":["entertainment","money"],
+  "content":[
+    "You've enjoyed a delicious meal at your favorite restaurant. Now it is time to pay the check and show your appreciation to your server by paying a 'tip' or gratuity. DynaCalq can help you quickly calculate the gratuity.",
+    "First, let's tap the <b>Gratuity</b> formula in DynaCalq's list of formulas.",
+    "You will notice that you must enter:",
+    "<ul><li>The cost of the meal</li><li>The desired gratuity percentage</li></ul>",
+    "DynaCalq will calculate:",
+    "<ul><li>The total tip</li><li>The total cost of the meal <b>including</b> the calculated tip</li></ul>",
+    "<b>Setting the Currency</b>",
+    "It is not necessary to select the currency type by using the green unit selector buttons to the left of some of the fields. This is because the gratuity calculation will be the same in whatever currency applies. However, there are some circumstances where you might wish to set the currency units.",
+    "One situation might be where you wish to <em>pay for the meal</em> in one currency but <em>pay the tip</em> in another. DynaCalq will automatically perform the necessary rate conversions on all selected currencies to ensure that the gratuity is accurate.",
+    "<span class='note'><b>Note:</b> If you are traveling to another country be advised that not all cultures and countries accept or even <em>appreciate</em> tips. Many oriental cultures, for example, consider tipping to be insulting. Before you travel, and before you offer a tip, be sure to research what is culturally acceptable where you are currently visiting.</span>"
+  ]
+}

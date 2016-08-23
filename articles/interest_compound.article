@@ -1,0 +1,18 @@
+{
+  "title":"Compound Interest",
+  "author":"The DynaCalq Team",
+  "date":"Jun 18, 2016",
+  "article_version":6,
+  "abstract":"Use DynaCalq to calculate annualized compound interest",
+  "categories":["money"],
+  "content":[
+    "<span class='note'><b>Note:</b> Start with the Simple Interest article for basic interest terminology.</span>",
+    "The difference between <i>simple</i> interest and <i>compound</i> interest is this: while simple interest is calculated against the principal alone, compound interest calculates interest after previous interest has been added to the principal sum.",
+    "<b>An Example</b>",
+    "Let us imagine that you have borrowed 100&euro;. The lender charges you <i><b>1%</b> interest (0.01) compounded monthly</i>. After the first month, the lender will charge you: 100 x 0.01. That's 1 &euro; in interest. So, now you owe 101 &euro;.",
+    "The next month, the lender will charge the same 1% (0.01) interest rate but, she will make her calculations against the principal loaned plus the interest calculated last month. That means: <pre>101 x 1.01 = 102.01</pre>",
+    "Now you owe <b>102.01 &euro;</b>. Can you see already that the rate of money you owe the lender is increasing <i>exponentially</i>? This, dear reader, is the key behind credit-card debt. It is how credit card companies are able to make profits.",
+    "Usually, interest rates are stated in annualized terms, yet interest is usually calculated in <i>periods</i> of less than one year - usually once a month, or a 1/12<sup>th</sup> of a year. This means, for example, if your APR, or annual percentage rate, is 8%, the periodic, or monthly percentage rate is: <pre>.08/12 = .0066</pre>",
+    "This means that the monthly interest will be calculated at: <pre>current balance x .0066</pre> That interest will be added to the current balance."
+  ]
+}

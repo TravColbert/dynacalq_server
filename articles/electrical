@@ -1,0 +1,16 @@
+{
+  "title":"Understanding Electrical Formulas",
+  "author":"The DynaCalq Team",
+  "date":"Jul 18, 2016",
+  "article_version":"3",
+  "for_app_version":"<0.0.4",
+  "abstract":"You can use DynaCalq to perform basic home electrical calculations",
+  "categories":["electrical"],
+  "content":[
+    "Nulla sit amet interdum sem. Fusce efficitur libero mauris, in egestas felis rutrum sed. Donec molestie magna mi, id tempor nulla cursus sed. Aliquam erat volutpat. Cras semper, odio id rhoncus ultrices, diam magna semper nisl, quis euismod leo neque eu nulla. Duis bibendum lectus ut enim condimentum malesuada. Nam sed nibh ac ex sagittis gravida ac sit amet nisl.",
+    "Duis dictum varius lacus, eget tincidunt dui. Donec iaculis consequat est, et hendrerit diam luctus sed. Sed nisi purus, rutrum at cursus aliquam, ullamcorper in ante. Duis quis imperdiet ipsum. Donec mattis accumsan vehicula. Fusce ut varius tortor. Curabitur id sollicitudin metus.",
+    "Curabitur pellentesque tristique eros, vel fermentum tellus luctus ac. Ut et consectetur est. Fusce ornare diam vel ligula porttitor ornare. Integer sodales maximus dui eu posuere. Nam pellentesque, orci sit amet malesuada fermentum, eros nisl lobortis felis, nec convallis libero ex auctor nisi. Duis congue sit amet augue eu hendrerit. In vitae erat convallis, luctus purus vitae, luctus eros. Aliquam dapibus porttitor mauris sed faucibus. Vivamus at feugiat lectus. Sed orci ex, consequat sed augue vitae, scelerisque facilisis turpis. Ut imperdiet fringilla nunc, vel malesuada elit porta eu.",
+    "Donec in mollis dolor, quis condimentum massa. Cras nec dignissim enim. Proin ac hendrerit mauris. Vivamus nec purus magna. Proin tortor diam, dignissim at vehicula consectetur, hendrerit quis mauris. Donec ultrices mi lectus, non maximus felis semper quis. Suspendisse ut scelerisque nisi. Proin quis pharetra sem. Donec aliquet scelerisque quam ut suscipit. Nam gravida interdum metus, ac iaculis massa porta at. Ut quis nisi in tellus placerat efficitur. Nulla ullamcorper commodo imperdiet. Nullam laoreet lorem nunc, at ullamcorper nibh lobortis id. Curabitur auctor tellus ut enim rutrum, vitae viverra urna molestie. Curabitur sodales leo in dolor pulvinar efficitur.",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit porttitor dolor vel mollis. Sed et sem maximus sapien varius venenatis quis ac est. Cras sollicitudin, nibh rutrum porttitor ultricies, libero diam ullamcorper augue, at luctus nibh purus et justo. Nunc lacinia neque dui, quis pulvinar nisl ornare sit amet. Mauris ipsum sem, aliquet sit amet dignissim non, cursus id augue. Pellentesque non enim faucibus, scelerisque enim eget, bibendum quam. Fusce orci massa, auctor non convallis a, iaculis eget arcu. Donec ut felis magna. Suspendisse non mi placerat nunc ullamcorper viverra. Nunc vel est feugiat, volutpat orci at, malesuada enim. Nulla varius orci vitae tortor tincidunt, non euismod nunc commodo. Phasellus eu molestie nibh."
+  ]
+}

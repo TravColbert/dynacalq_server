@@ -1,0 +1,13 @@
+{
+  "title":"DynaCalq - Categories",
+  "author":"The DynaCalq Team",
+  "date":"Jul 22, 2016",
+  "article_version":2,
+  "abstract":"DynaCalq's Categories",
+  "content":[
+    "Every formula in DynaCalq belongs to one or more categories.",
+    "You can see the categories for each formula.",
+    "To see just one category, tap the red button near the bottom-right of your screen. You'll see several categories. Pick one of them to see all of the formulas that are categorized under it.",
+    "Select the 'All' category to see all of the formulas again."
+  ]
+}
