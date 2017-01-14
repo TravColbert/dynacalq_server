@@ -1,8 +1,8 @@
 {
   "title":"Using the Magnificent Quick Calculator",
   "author":"The DynaCalq Team",
-  "date":"Jul 31, 2016",
-  "article_version":1,
+  "date":"Jan 4, 2016",
+  "article_version":4,
   "abstract":"The Quick Calculator is the perfect DynaCalq tool to use when nothing else seems to fit",
   "categories":["general"],
   "content":[
@@ -13,13 +13,13 @@
     "<b>The Rules</b>",
     "1. Like most calculators, you don't need to enter the '=' sign in your expressions. Just start typing the expression.",
     "2. You can use <i>operators</i> like:",
-    "<b>+ - * / %</b> - arithmatic operators: <i>addition, subtraction, multiply, divide, modulo (remainder)</i> operators",
+    "<b>+ - * / %</b> - arithmetic operators: <i>addition, subtraction, multiply, divide, modulo (remainder)</i> operators",
     "<pre>2 + 3 * 2</pre>",
     "<span class='note'><b>Note:</b> We've formatted these entries with spaces so that they are a little easier to see. But you don't have to put spaces in your calculation entries.",
-    "Your most basic arithmatic. The result will be <b>12</b>",
+    "The above illustrates the most basic arithmetic rules. The result will be <b>8</b>",
     "<b>( )</b> - grouping operator",
     "<pre>( 2 + 3 ) * 2</pre>",
-    "The above equals <b>10</b>, not <b><i>12</i></b>. This is because we've used the group operators to force the addition operator to take precedence over the multiplication operation.",
+    "The above equals <b>10</b>, not <b><i>8</i></b>. This is because we've used the group operators to force the addition operator to take precedence over the multiplication operation.",
     "<b>^</b> - power operator",
     "<pre>2 ^ 2</pre>",
     "Equals <b>4</b>.",
@@ -29,6 +29,6 @@
     "<b>Other Powerful Operators</b>",
     "<b> <<, >></b> - bitwise shift left, right",
     "<pre>2 << 1</pre>",
-    "Equals <b>4</b> <i>(that's 010 shifted to 0100)</i>."
+    "Equals <b>4</b> <i>(that's binary 2 (010) shifted to 0100 - which equals 4)</i>."
   ]
 }
