@@ -1,13 +1,13 @@
 {
   "title":"Amortization Schedule",
   "author":"The DynaCalq Team",
-  "date":"Jun 18, 2016",
-  "article_version":4,
-  "abstract":"How much money would it take to 'kill' a loan?",
+  "date":"Nov 23, 2017",
+  "article_version":5,
+  "abstract":"How long would it take to 'kill' a loan?",
   "categories":["money"],
   "content":[
-    "Loans, especially large ones, are like some kind of horrible, self-feeding monster. Because of the power of <i>compounding interest</i> a loan actually feeds on itself and grows ever larger if not properly controlled.",
-    "Unfortunately, for large loans like mortgages and car loans, it may simply be impossible to slay the evil loan monster in one strike. More realistically we have to slowly pay off the loan - hacking at it regularly - until the wily beast has finally been slayed. In the personal finance world, we call this slow, controlled killing of a loan an <b><i>amortization</i></b>. In fact, the word <i>amortization</i> has Latin roots, meaning: <i>to kill</i> (fr. <i>a mort</a>: to death, to kill)",
+    "Large loans are like gruesome, self-feeding monsters. Because of the power of <i>compounding interest</i> a loan actually feeds on itself and grows ever larger if not properly controlled.",
+    "Unfortunately, for large loans like mortgages and car loans, it may simply be impossible to slay the evil loan monster in one strike. It is often more realistic to slowly, consistently pay off a large loan - hacking at it regularly - until the wily beast has finally been slayed. In the personal finance world, we call this slow, controlled killing of a loan an <b><i>amortization</i></b>. In fact, the word <i>amortization</i> has Latin roots, meaning: <i>to kill</i> (fr. <i>a mort</a>: to death, to kill)",
     "Amortization is the process by which the principal of a loan is progressively paid off through a regular, fixed schedule.",
     "DynaCalq is packaged with several formulas that help you manage debt. One of these formulas is an amortization schedule calculator. This formula accepts the following inputs:",
     "<ul><li>The total loan amount or <i>principal</i></li><li>The interest rate applied to the loan</li><li>The target number of months to pay off the loan</li></ul>",
