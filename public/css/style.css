@@ -74,7 +74,7 @@ button {
 
 /*---- Typography ----*/
 header h1,
-.payoff h1,
+.payoff h2,
 .details .carousel,
 .social i:hover{
 	color: #cddc39;
@@ -334,7 +334,7 @@ img.app-store{
 	color: white;
 }
 
-.payoff h1{
+.payoff h2{
 	text-transform: uppercase;
 	font-weight: 300;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -360,10 +360,10 @@ img.app-store{
 	margin-bottom: 40px;
 }
 
-.detail .carousel h1{
+.detail .carousel h2{
 	font-size: 3.8em;
 }
-.detail .carousel h1, .detail p{
+.detail .carousel h2, .detail p{
 	text-align: left;
 	font-weight: 300;
 }
@@ -485,7 +485,7 @@ img.app-store{
 	color: white;
 }
 
-.articles h1, .articles h3, .articles h4, .articles h1>a {
+.articles h2, .articles h3, .articles h4, .articles h2>a {
   color: #fff;
 }
 
@@ -684,7 +684,7 @@ img.app-store{
 }
 
 @media (max-width:991px) {
-  .detail .carousel h1, .detail p{
+  .detail .carousel h2, .detail p{
     text-align: center;
   }
   .detail p{
@@ -699,7 +699,7 @@ img.app-store{
     padding-bottom: 50px;
     min-height: 200px;
   }
-  .payoff h1{
+  .payoff h2{
     font-size: 24px;
   }
   .features .col-md-4{
@@ -749,7 +749,7 @@ img.app-store{
 		padding-bottom: 0px;
 	}
 
-	header h1{
+	header h2{
 		font-size: 70px;
 	}
 
